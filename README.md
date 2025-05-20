@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**4ht0h10/4ht0h10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Antonio (4ht0h10), I'm from Spain and I'm currently working for [UST](https://www.ust.com/en) as QA Engineer.
 
-Here are some ideas to get you started:
+I'm a Software engineer with extensive experience in IT, mainly focused on: 
+- QE Engineer.
+- Data Scientist.
+- Requisites Engineer.
+- Automation of Functional and PerformanceTests.
+- BDD, Continued Integration and Configuration Management.
+- Analysis and Design of Databases.
+🌱 I’m currently learning AI, the next step after data science, I think.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+📫 How to reach me: [LikedIn](https://www.linkedin.com/in/antoniomarinhernandez) or [here](https://4ht0h10.github.io/antonio-web)
+

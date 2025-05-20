@@ -10,7 +10,7 @@ I'm a Software engineer with extensive experience in IT, mainly focused on:
 - BDD, Continued Integration and Configuration Management.
 - Analysis and Design of Databases.
   
-🌱 I’m currently learning *AI*, the next step after data science, I think.
+🌱 I’m currently learning **AI**, the next step after Data Science, I think.
 
 ## Contact
 
